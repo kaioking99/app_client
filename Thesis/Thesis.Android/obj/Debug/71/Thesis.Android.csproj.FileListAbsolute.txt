@@ -1,0 +1,2 @@
+E:\LVTN_anh_minh\Client\Apps\Thesis\Thesis\Thesis.Android\obj\Debug\71\MonoAndroid,Version=v7.1.AssemblyAttributes.cs
+E:\LVTN_anh_minh\Client\Apps\Thesis\Thesis\Thesis.Android\obj\Debug\71\Thesis.Android.nuget.stamp

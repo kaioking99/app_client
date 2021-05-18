@@ -1,0 +1,12 @@
+E:\LVTN_1\Client\Apps\Apps\Opc.Ua.Configuration\bin\Release\netstandard2.0\Opc.Ua.Configuration.deps.json
+E:\LVTN_1\Client\Apps\Apps\Opc.Ua.Configuration\bin\Release\netstandard2.0\Opc.Ua.Configuration.dll
+E:\LVTN_1\Client\Apps\Apps\Opc.Ua.Configuration\bin\Release\netstandard2.0\Opc.Ua.Configuration.pdb
+E:\LVTN_1\Client\Apps\Apps\Opc.Ua.Configuration\bin\Release\netstandard2.0\Opc.Ua.Core.dll
+E:\LVTN_1\Client\Apps\Apps\Opc.Ua.Configuration\bin\Release\netstandard2.0\Opc.Ua.Core.pdb
+E:\LVTN_1\Client\Apps\Apps\Opc.Ua.Configuration\obj\Release\netstandard2.0\Opc.Ua.Configuration.csprojAssemblyReference.cache
+E:\LVTN_1\Client\Apps\Apps\Opc.Ua.Configuration\obj\Release\netstandard2.0\Opc.Ua.Configuration.csproj.CoreCompileInputs.cache
+E:\LVTN_1\Client\Apps\Apps\Opc.Ua.Configuration\obj\Release\netstandard2.0\Opc.Ua.Configuration.AssemblyInfoInputs.cache
+E:\LVTN_1\Client\Apps\Apps\Opc.Ua.Configuration\obj\Release\netstandard2.0\Opc.Ua.Configuration.AssemblyInfo.cs
+E:\LVTN_1\Client\Apps\Apps\Opc.Ua.Configuration\obj\Release\netstandard2.0\Opc.Ua.Configuration.csproj.CopyComplete
+E:\LVTN_1\Client\Apps\Apps\Opc.Ua.Configuration\obj\Release\netstandard2.0\Opc.Ua.Configuration.dll
+E:\LVTN_1\Client\Apps\Apps\Opc.Ua.Configuration\obj\Release\netstandard2.0\Opc.Ua.Configuration.pdb

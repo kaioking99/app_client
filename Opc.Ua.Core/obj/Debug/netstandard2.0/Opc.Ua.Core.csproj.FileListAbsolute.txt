@@ -1,0 +1,17 @@
+E:\LVTN_anh_minh\Client\Apps\Thesis\Opc.Ua.Core\bin\Debug\netstandard2.0\Opc.Ua.Core.deps.json
+E:\LVTN_anh_minh\Client\Apps\Thesis\Opc.Ua.Core\bin\Debug\netstandard2.0\Opc.Ua.Core.dll
+E:\LVTN_anh_minh\Client\Apps\Thesis\Opc.Ua.Core\bin\Debug\netstandard2.0\Opc.Ua.Core.pdb
+E:\LVTN_anh_minh\Client\Apps\Thesis\Opc.Ua.Core\obj\Debug\netstandard2.0\Opc.Ua.Core.csproj.CoreCompileInputs.cache
+E:\LVTN_anh_minh\Client\Apps\Thesis\Opc.Ua.Core\obj\Debug\netstandard2.0\Opc.Ua.Core.AssemblyInfoInputs.cache
+E:\LVTN_anh_minh\Client\Apps\Thesis\Opc.Ua.Core\obj\Debug\netstandard2.0\Opc.Ua.Core.AssemblyInfo.cs
+E:\LVTN_anh_minh\Client\Apps\Thesis\Opc.Ua.Core\obj\Debug\netstandard2.0\Opc.Ua.Core.dll
+E:\LVTN_anh_minh\Client\Apps\Thesis\Opc.Ua.Core\obj\Debug\netstandard2.0\Opc.Ua.Core.pdb
+E:\LVTN_1\Client\Apps\Apps\Opc.Ua.Core\bin\Debug\netstandard2.0\Opc.Ua.Core.deps.json
+E:\LVTN_1\Client\Apps\Apps\Opc.Ua.Core\bin\Debug\netstandard2.0\Opc.Ua.Core.dll
+E:\LVTN_1\Client\Apps\Apps\Opc.Ua.Core\bin\Debug\netstandard2.0\Opc.Ua.Core.pdb
+E:\LVTN_1\Client\Apps\Apps\Opc.Ua.Core\obj\Debug\netstandard2.0\Opc.Ua.Core.csprojAssemblyReference.cache
+E:\LVTN_1\Client\Apps\Apps\Opc.Ua.Core\obj\Debug\netstandard2.0\Opc.Ua.Core.csproj.CoreCompileInputs.cache
+E:\LVTN_1\Client\Apps\Apps\Opc.Ua.Core\obj\Debug\netstandard2.0\Opc.Ua.Core.AssemblyInfoInputs.cache
+E:\LVTN_1\Client\Apps\Apps\Opc.Ua.Core\obj\Debug\netstandard2.0\Opc.Ua.Core.AssemblyInfo.cs
+E:\LVTN_1\Client\Apps\Apps\Opc.Ua.Core\obj\Debug\netstandard2.0\Opc.Ua.Core.dll
+E:\LVTN_1\Client\Apps\Apps\Opc.Ua.Core\obj\Debug\netstandard2.0\Opc.Ua.Core.pdb
